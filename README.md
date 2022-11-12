@@ -1,6 +1,6 @@
 ## Factory - Gang of four.
 
-Exemplo de uma aplicação do padrão State para manuseamento de processos com múltiplos estados e passos.
+Exemplo de uma aplicação do padrão Factory method para criação dinâmica e genérica de elementos especializados.
 
 ## Implementação
 
@@ -93,7 +93,7 @@ public class Fazenda {
 
 > Console:
 
-```java
+```
 ->O que fruta você gostaria de comer hoje?
 ->Maçã
 ->Não temos essa fruta!
